@@ -2,7 +2,6 @@
 import sys
 import discord
 import asyncio
-import json
 import datetime
 TOKEN = 'NTAyNTUzNzA1MDY1ODczNDA4.DqpnPA.f3DCUouC_-qt4B-zb-rC7nq1q5A'
 IDSALON = 502554506081599490
