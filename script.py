@@ -63,6 +63,6 @@ async def on_message(message):
 
 @client.event
 async def on_ready():
-    await client.send_message(channel, "Je suis la")
+    pass
 
 client.run(TOKEN)
